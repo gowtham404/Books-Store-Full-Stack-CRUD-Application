@@ -2,12 +2,8 @@
 A FastAPI CRUD app where users can create an account and manage their favorite books.  
 
 ## 📌 GitHub Repository  
-```bash
-https://github.com/Prakashsaw/FastAPI-CRUD-App
-```
 
 
-```
 
 ---
 
