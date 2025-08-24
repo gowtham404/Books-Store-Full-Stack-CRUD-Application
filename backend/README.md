@@ -1,15 +1,9 @@
 # **Books Store** 📚  
 A FastAPI CRUD app where users can create an account and manage their favorite books.  
 
-## 📌 GitHub Repository  
-```bash
-https://github.com/Prakashsaw/FastAPI-CRUD-App
-```
 
-## 🌍 Live Demo  
-```bash
-https://fastapi-crud-app.netlify.app
-```
+
+
 
 ---
 
@@ -34,9 +28,7 @@ Books Store is a **full-stack CRUD application** built with FastAPI, React.js, a
 ## **🚀 Getting Started**  
 
 ### **Step 1: Clone the Repository**  
-```bash
-git clone https://github.com/Prakashsaw/FastAPI-CRUD-App.git
-```
+
 
 ### **Step 2: Navigate to the Project Directory**  
 ```bash
@@ -163,10 +155,7 @@ npm run start
 
 ---
 
-## **👨‍💻 Made By**  
-- [@Prakashsaw](https://github.com/Prakashsaw)  
 
----
 
 ## **🐜 License**  
 This project is licensed under the **MIT License**.  
